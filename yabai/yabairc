@@ -64,3 +64,6 @@ yabai -m rule --add app="^Ghostty$" space=2 opacity=0.9
 yabai -m rule --add app="^Emacs$" space=3 opacity=0.9
 yabai -m rule --add app="^Slack$" space=4
 yabai -m rule --add app="^YouTube$" space=5
+
+
+yabai -m config external_bar all:32:0
